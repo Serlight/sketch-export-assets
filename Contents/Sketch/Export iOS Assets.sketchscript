@@ -10,7 +10,7 @@ var onRun = function(context) {
             {
                 folder: '',
                 scale: 1.0,
-                suffix: '2x',
+                suffix: '@2x',
             },
             {
                 folder: '',
